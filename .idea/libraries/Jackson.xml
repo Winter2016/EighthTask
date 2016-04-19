@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="Jackson">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/aopalliance-repackaged-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/hk2-api-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/hk2-locator-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/hk2-utils-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-core-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-databind-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-jaxrs-base-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-jaxrs-json-provider-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jackson-module-jaxb-annotations-2.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/javassist-3.18.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/javax.inject-2.4.0-b31.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/javax.ws.rs-api-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jersey-common-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jersey-entity-filtering-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jersey-guava-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/jersey-media-json-jackson-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Jackson/osgi-resource-locator-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

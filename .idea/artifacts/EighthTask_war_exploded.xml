@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="EighthTask:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/EighthTask_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="EighthTask/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="EighthTask" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-4.2.5.RELEASE" />
+          <element id="library" level="project" name="Spring MVC" />
+          <element id="library" level="project" name="Jackson" />
+          <element id="library" level="project" name="httpClient" />
+          <element id="library" level="project" name="json-20160212" />
+          <element id="library" level="project" name="postgresql-9.4.1208.jre7" />
+          <element id="library" level="project" name="jersey-container-servlet" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="jersey-container-servlet">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/jersey-client-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/jersey-container-servlet-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/jersey-container-servlet-core-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/jersey-media-jaxb-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/jersey-server-2.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/Jersey Container Servlet/validation-api-1.1.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

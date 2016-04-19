@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="httpClient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../lib/HTTPClient/commons-codec-1.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/HTTPClient/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/HTTPClient/httpclient-4.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../lib/HTTPClient/httpcore-4.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
